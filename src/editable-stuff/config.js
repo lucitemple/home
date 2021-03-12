@@ -47,11 +47,11 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: "https://avatars.githubusercontent.com/u/5368666?s=460&u=5ea0542f620045e90f5ca7e38e8e313aae8b516f&v=4",
   imageSize: 375,
   message:
-    "My name is Luci Temple. I am a front-end web developer with a passion for tech-driven social enterprise. In a previous life I worked in communications, marketing and the creative sector.",
-  resume: require("../editable-stuff/resume.pdf"),
+    "My name is Luci Temple. I am a Wollongong-based front-end web developer with a passion for tech-driven social enterprise. You could say I’ve taken the scenic route to frontend web development, after a couple decades doing other stuff - activism, marketing, communications, screenwriting, filmmaking, advertising, bookselling, telemarketing, entrepreneurialism, volunteering, parenting… I strive to do good work, with good people, for a good purpose.",
+  resume: "https://drive.google.com/file/d/1NGFVaidCoKYimZCmAmbB-fEwb_rjxo_f/view?usp=sharing"
 };
 
 // PROJECTS SECTION
@@ -96,23 +96,24 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Git", value: 75 },
-    { name: "Mocha", value: 85 },
-    { name: "Node.js", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "Ruby", value: 65 },
-    { name: "HTML", value: 55 },
-    { name: "CSS", value: 80 },
+    { name: "JavaScript", value: 75 },
+    { name: "React", value: 50 },
+    { name: "HTML", value: 75 },
+    { name: "CSS", value: 65 },
+    { name: "Git", value: 65 },
+    { name: "Node.js", value: 30 },
+    { name: "Ruby", value: 35 },
+    { name: "Mocha", value: 10 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Problem Solving", value: 90 },
+    { name: "Communication", value: 95 },
+    { name: "Collaboration", value: 70 },
+    { name: "Proactiveness", value: 87 },
+    { name: "Adaptability", value: 75 },
+    { name: "Persistence", value: 85 },
+    { name: "Personal Responsibility", value: 90 },
+    { name: "Creativity", value: 85 },
   ],
 };
 
@@ -121,7 +122,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "If you're interested in working together, touch base.",
+    "If you're interested in working together, or learning together, please touch base",
   email: "lucitemple@yahoo.com.au",
 };
 
