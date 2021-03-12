@@ -50,7 +50,7 @@ const about = {
   imageLink: "https://avatars.githubusercontent.com/u/5368666?s=460&u=5ea0542f620045e90f5ca7e38e8e313aae8b516f&v=4",
   imageSize: 375,
   message:
-    "My name is Luci Temple. I am a Wollongong-based front-end web developer with a passion for tech-driven social enterprise. You could say I’ve taken the scenic route to frontend web development, after a couple decades doing other stuff - activism, marketing, communications, screenwriting, filmmaking, advertising, bookselling, telemarketing, entrepreneurialism, volunteering, parenting… I strive to do good work, with good people, for a good purpose.",
+    "I'm a Wollongong-based front-end web developer with a passion for tech-driven social enterprise. I’ve taken the scenic route to web development after a couple decades doing other stuff - activism, marketing, communications, screenwriting, filmmaking, advertising, bookselling, telemarketing, entrepreneurialism, volunteering, parenting… I strive to do good work, with good people, for a good purpose.",
   resume: "https://drive.google.com/file/d/1NGFVaidCoKYimZCmAmbB-fEwb_rjxo_f/view?usp=sharing"
 };
 
